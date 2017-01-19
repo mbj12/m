@@ -1,6 +1,6 @@
 ## use REmap
 library(REmap)
-
+#############################################################################
 origin = rep("beijing",6)
 destination =c('shanghai','tianjin','chongqing','haerbin','wuhan','qiqihaer')
 dat <- data.frame(origin,destination)
